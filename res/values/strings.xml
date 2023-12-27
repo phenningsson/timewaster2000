@@ -1,0 +1,108 @@
+<resources>
+
+    <!-- Denna xml fil innehåller applikationens olika stringvärden och dess innehåll -->
+
+
+    <string name="app_name">Gesällprov</string>
+    <string name="homeBtnExplainer">Takes user to the Homepage</string>
+    <string name="settingsBtnExplainer">Takes user to the Settings Page</string>
+    <string name="smsBtnExplainer">Takes user to SMS, Phone call and email page</string>
+    <string name="home">Home</string>
+    <string name="social">Social</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="na">n/a</string>
+    <string name="temperatureInfo">Your current ambient temperature in celsius (°C) is: </string>
+    <string name="nosensor">No temperature sensor available on device.</string>
+    <string name="checkInternet">Check Internet Connection</string>
+    <string name="yourLatitudeIs">Your latitude is:</string>
+    <string name="your_longitude_is">Your longitude is:</string>
+    <string name="x_axis">X-Axis:</string>
+    <string name="y_axis">Y-Axis:</string>
+    <string name="z_axis">Z-Axis:</string>
+    <string name="accExplainer">Your device\'s X, Y and Z axis acceleration is:</string>
+    <string name="dialogExplainer">What is this page?</string>
+    <string name="utilityDialogInfo">This is a collection of small and fun utility programs designed to provide you with semi-useful information about your device.\n
+        \n
+        Ambient Weather: This program displays the current ambient air temperature. Not all devices have an ambient temperature sensor.\n
+        \n
+        Device Location: This program shows your device\'s current location in coordinates latitude and longitude, which can be useful for scavenger hunts or geocaching.\n
+        \n
+        Accelerometer: This program measures your device\'s acceleration on its X, Y and Z axis measured in m/s^2 and displays it in real time.\n
+        \n
+        Proximity: This program uses the device\'s sensors to measure the distance between the device and an object. The measurement is displayed in centimeters.\n
+        \n
+        Do I vibrate: Try me! Check whether your device will vibrate or not.\n
+        \n
+        Internet Connection: This program checks whether your device is currently connected to the internet, which can be helpful for troubleshooting connectivity issues.\n
+        \n
+        We hope you find these programs useful and fun, and that it helped you pass some time when you\'re bored!</string>
+    <string name="proximityInfo">This device\'s proximity to the nearest object is: </string>
+    <string name="doVibrate">Do I vibrate?</string>
+    <string name="utility">Utility</string>
+
+
+    <string name="calcDialogInfo">This is a simple calculator that can perform basic arithmetic operations, as well as find if the given result is a prime number or not.\n
+        \n
+        Calculator: Performs basic arithmetic operations such as addition, subtraction, multiplication, and division. The calculator can also convert your number to percentage,
+        as well as converting it into negative.\n
+        \n
+        Prime Checker: You can check whether the result of your calculation is a prime number or not.
+        This feature can be helpful for those who work with numbers and need to quickly determine if a number is prime or not.\n
+        \n
+        Save: You can save the result of your calculation, along with the prime checker status, by hitting the "Save" button.
+        This way, you can retrieve your last result and prime checker status when you open the app again.\n
+        \n
+        We hope you find this calculator and prime checker useful, and helps you polish your multiplication table or prime number knowledge to impress your friends! </string>
+    <string name="calculator">Calculator</string>
+    <string name="isPrime">Is it a Prime number?</string>
+    <string name="save">Save</string>
+
+    <string name="zero">0</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <string name="six">6</string>
+    <string name="seven">7</string>
+    <string name="eight">8</string>
+    <string name="nine">9</string>
+
+    <string name="allClear">AC</string>
+    <string name="exponent">^</string>
+    <string name="parentheses">( )</string>
+    <string name="divide">/</string>
+    <string name="multiply">x</string>
+    <string name="add">+</string>
+    <string name="subtract">-</string>
+    <string name="plusMinus">+/-</string>
+    <string name="point">.</string>
+    <string name="equals">=</string>
+
+    <string name="backspace"> </string>
+
+    <string name="displayValue">Enter value</string>
+    <string name="backspaceExplainer">Backspace icon for calculator</string>
+    <string name="percentage">%</string>
+    <string name="quiz">Quiz</string>
+    <string name="questionPlaceholder">Question Placeholder</string>
+    <string name="totalQuestions">Total Questions:</string>
+    <string name="answerA">Answer A</string>
+    <string name="answerB">Answer B</string>
+    <string name="answerC">Answer C</string>
+    <string name="answerD">Answer D</string>
+    <string name="submit">Submit</string>
+    <string name="welcomeHeader">Welcome to the TimeWaster 2000!</string>
+    <string name="welcomeMessage">We understand that sometimes we all need a break or simply a way to pass some time while waiting\n- that\'s where our app comes in handy.\n
+        \n
+        With our three exciting pages, you can spend your time taking quizzes, crunching numbers with our calculator, check if a number is prime or explore different features of your device with our utility page.
+        </string>
+    <string name="startMessage">
+        Our app is designed to offer you a fun and entertaining way to pass the time, no matter where you are.\n
+        \n
+        Ready to go? Let\'s get started! Simply press one of the buttons below and see where it takes you!</string>
+    <string name="homepageLogo">Homepage Logo</string>
+    <string name="mottoTxt">We want you to waste time</string>
+
+
+</resources>
